@@ -384,3 +384,57 @@ table.imgtable, table.imgtable td {
 		font-size: 32px;
 	}
 }
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ 
+li {
+    float: left;
+}
+ 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ 
+/*鼠标移动到选项上修改背景颜色 */
+li a:hover {
+    background-color: #111;
+}
+
+#daohang{
+			font-size: 18px;
+			font-weight: bold;
+		}
+		#daohang li{
+			text-decoration: none;  /*去掉前面的圆点*/
+			list-style: none;
+			float: left;
+			border: 1px solid #FFFFFF;
+			background-color: #c8dadb;
+		}
+		#daohang li a{
+			color:#040404;
+			text-decoration: none;
+			margin:0px;
+			display: block;
+			/*内边距（即填充padding）的方式，让每个菜单变得宽一些*/
+<span style="white-space:pre">			</span>padding: 8px 50px; 			
+<span style="white-space:pre">			</span>height:30px; 
+			line-height:30px; 
+			text-align:center;
+		}
+      <span style="white-space:pre">		</span>/*定义链接的悬停效果，让导航栏更美观*/
+		#d li a:hover{ 
+			background-color: #FCFCFC;
+		}	
