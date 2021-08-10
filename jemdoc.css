@@ -428,13 +428,5 @@ li a:hover {
 			text-decoration: none;
 			margin:0px;
 			display: #c8dadb;
-			/*内边距（即填充padding）的方式，让每个菜单变得宽一些*/
-<span style="white-space:pre">			</span>padding: 0px 0px; 			
-<span style="white-space:pre">			</span>height:30px; 
-			line-height:30px; 
-			text-align:center;
 		}
-      <span style="white-space:pre">		</span>/*定义链接的悬停效果，让导航栏更美观*/
-		#d li a:hover{ 
-			background-color: #FFFFFF;
-		}	
+			
