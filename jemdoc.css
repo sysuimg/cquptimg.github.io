@@ -417,7 +417,7 @@ li a {
 			list-style: none;//去掉li前面的圆点
 			display: inline;//让li横向排列
 			border: 1px solid #FFFFFF;
-			background-color: #30DDEB;
+			background-color: #333;
 		}
 #menu li a{
 			color:#040404;
