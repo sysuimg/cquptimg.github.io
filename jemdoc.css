@@ -82,7 +82,7 @@ a:hover {
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #79A8A9;
+	color: #3f7fa9;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -392,7 +392,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #79A8A9;
+    background-color: #3f7fa9;
 }
  
 li {
