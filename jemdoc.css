@@ -386,7 +386,7 @@ table.imgtable, table.imgtable td {
 }
 
 
-/*
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -394,23 +394,8 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
-*/
-li {
-    float: left;
-}
+
  
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
- 
-/*鼠标移动到选项上修改背景颜色 */
-li a:hover {
-    background-color: #aaaaaa;
-}
 
 
 #menu{
