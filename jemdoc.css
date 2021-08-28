@@ -24,7 +24,7 @@ body {
     padding-top: 10px;
     padding-bottom: 30px;
     max-width: 960px;
-}
+	}
 
 #layout-menu {
 	background: #f6f6f6;
@@ -52,6 +52,7 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+	overflow:auto;
 }
 
 #layout-menu a {
@@ -430,3 +431,10 @@ li a {
 #menu li a:hover{
 			background-color: #FCFCFC;//鼠标经过事件
 		}		
+
+
+.subheading {
+    background: #CBD7ED;
+    border: 1px solid #CBD7ED;
+    padding: 5px;
+}
