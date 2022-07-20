@@ -403,7 +403,7 @@ table.imgtable, table.imgtable td {
 
 #menu li a {
             display:inline-block; /* 将链接设为块级元素 */
-            width:230px;          /* 设置宽度 */
+            width:150px;          /* 设置宽度 */
             height:30px;          /* 设置高度 */
             line-height:30px; 	  /* 设置行高，将行高和高度设置同一个值，可以让单行文本垂直居中 */
             text-align:center;    /* 居中对齐文字 */
